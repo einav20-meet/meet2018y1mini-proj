@@ -1,0 +1,43 @@
+turtle.register_shape("...")
+toilet = turtle.clone()
+toilet.shape(.....)
+
+toilet.goto(...,...)
+
+#########################################################
+
+turtle.register_shape("...")
+tv = turtle.clone()
+tv.shape(.....)
+
+tv.goto(...,...)
+
+#########################################################
+
+turtle.register_shape("...")
+ = turtle.clone()
+.shape(.....)
+
+.goto(...,...)
+
+
+#########################################################
+#lv.1
+
+while True :
+    if dany.pos() == toilet.pos() :
+        toilet.hideturtle()
+        print("You stoped the toilet from dribbling!")
+        break
+
+#########################################################
+#lv.2
+
+while True :
+    if dany.pos() == tv.pos() :
+        tv.hideturtle()
+        print("you closed thr tv")
+        break
+
+##########################################################
+#show the next

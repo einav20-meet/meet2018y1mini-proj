@@ -118,9 +118,9 @@ turtle.onkeypress(right, RIGHT_ARROW)
 
 turtle.listen()
 
-turtle.register_shape("colors.gif")
+turtle.register_shape("trash.gif")
 food = turtle.clone()
-food.shape("colors.gif")
+food.shape("turtle")
 food.color("red")
 
 
